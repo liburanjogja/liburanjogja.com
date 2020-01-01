@@ -1,4 +1,3 @@
-# liburan jogja 
+# liburan jogja
 
-https://liburanjogja.com
 
